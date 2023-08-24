@@ -12,3 +12,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/dizKSszF74A?si=Pq_ZV10h4KEBdPzJ) | Label, Geometry, Maxsize & Minsize | Python Tkinter GUI Tutorial In Hindi #4
 _____________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/end4IWH0ihY?si=qvuVcYZRg9hZVA3l) | Displaying Images Using Label | Python Tkinter GUI Tutorial In Hindi #5
+_______________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/0d-aZ5moXzA?si=SOBjz4mboWbY6Eyn) | Attributes Of Label & Pack | Python Tkinter GUI Tutorial In Hindi #6
