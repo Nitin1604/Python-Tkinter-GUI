@@ -14,3 +14,7 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/end4IWH0ihY?si=qvuVcYZRg9hZVA3l) | Displaying Images Using Label | Python Tkinter GUI Tutorial In Hindi #5
 _______________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/0d-aZ5moXzA?si=SOBjz4mboWbY6Eyn) | Attributes Of Label & Pack | Python Tkinter GUI Tutorial In Hindi #6
+_______________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/WYLokw4mZQw?si=rj8m_6Hj5KlvRON_) | Exercise 1: Creating Newspaper GUI | Python Tkinter GUI Tutorial In Hindi #7
+_______________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/dgFjh5WbQDU?si=wm95ucNhhMtP8j2F) | Frame In Tkinter | Python Tkinter GUI Tutorial In Hindi #8
