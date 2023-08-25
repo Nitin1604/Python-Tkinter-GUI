@@ -28,3 +28,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/dvLMe-L5e-g?si=D313a7A57rfxJmli) | Accepting User Input In Tkinter Form | Python Tkinter GUI Tutorial In Hindi #12 | tkinterSeries12.py | records.txt will automatically made by python interpreter when the file mode was in write mode (w)
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/NPwT6jI5fvI?si=xOa1zciaszvyF_nn) | Canvas Widget In Python Tkinter | Python Tkinter GUI Tutorial In Hindi #13
+________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/ZWYhXncauUA?si=sqF7Lmzgo5GF4xmo) | Handling Events In Tkinter GUI | Python Tkinter GUI Tutorial In Hindi #14
