@@ -30,3 +30,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/NPwT6jI5fvI?si=xOa1zciaszvyF_nn) | Canvas Widget In Python Tkinter | Python Tkinter GUI Tutorial In Hindi #13
 ________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/ZWYhXncauUA?si=sqF7Lmzgo5GF4xmo) | Handling Events In Tkinter GUI | Python Tkinter GUI Tutorial In Hindi #14
+________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/Le1Sp71JI70?si=7fS6M7FIdRuHjGGQ) | Python GUI Exercise 1: Solution | Python Tkinter GUI Tutorial In Hindi #15
