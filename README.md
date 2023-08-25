@@ -32,3 +32,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/ZWYhXncauUA?si=sqF7Lmzgo5GF4xmo) | Handling Events In Tkinter GUI | Python Tkinter GUI Tutorial In Hindi #14
 ________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/Le1Sp71JI70?si=7fS6M7FIdRuHjGGQ) | Python GUI Exercise 1: Solution | Python Tkinter GUI Tutorial In Hindi #15
+________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/8Qy_809RDM0?si=nPq3ogQhIOSXGv-K) | Python GUI Exercise 2: Window Resizer GUI | Python Tkinter GUI Tutorial In Hindi #16
