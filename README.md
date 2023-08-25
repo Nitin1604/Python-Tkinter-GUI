@@ -20,3 +20,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/dgFjh5WbQDU?si=wm95ucNhhMtP8j2F) | Frame In Tkinter | Python Tkinter GUI Tutorial In Hindi #8
 _______________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/hM9f376cxpw?si=rOYUgqVAKKaFTLrj) | Packing Buttons In Tkinter | Python Tkinter GUI Tutorial In Hindi #9
+_______________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/Rg96iAgQlfg?si=TwnQu6jweicrOtjx) | Entry Widget & Grid Layout In Tkinter | Python Tkinter GUI Tutorial In Hindi #10
