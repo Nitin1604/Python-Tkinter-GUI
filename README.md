@@ -58,3 +58,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/kY22BriodaU?si=LJV-xKXo3UV5xRrr) | Using Classes And Objects To Create GUIs | Python Tkinter GUI Tutorial In Hindi #25
 ___________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/EA3g9AZCIdU?si=5ZbMPt40h1CobIsF) | More Tkinter Tips, Tricks & Functions | Python Tkinter GUI Tutorial In Hindi #26
+___________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/fbxsYcSccJE?si=2X5v0fmSmJeKzKDH) | Creating A Calculator Using Tkinter | Python Tkinter GUI Tutorial In Hindi #27
