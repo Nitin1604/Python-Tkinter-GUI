@@ -42,3 +42,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/mea-xEhMf3Y?si=dj7ICpW7DfOgm4Tp) | Menus & Submenus In Tkinter Python | Python Tkinter GUI Tutorial In Hindi #17
 ________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/yiAlV5Huo84?si=NI87zGRZ8Q2tQoq_) | Message Box In Tkinter Python | Python Tkinter GUI Tutorial In Hindi #18
+________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/luAhG37X8pE?si=cFYY2lKjDCgqv6uu) | Sliders In Tkinter Using Scale() | Python Tkinter GUI Tutorial In Hindi #19
