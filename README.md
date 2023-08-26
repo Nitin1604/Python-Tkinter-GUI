@@ -54,3 +54,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/nF61b4wAmxE?si=PXh8BRF3RRN3_3Wf) | Tkinter GUI Exercise 2 Solution + Shoutouts | Python Tkinter GUI Tutorial In Hindi #23
 ___________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/ZhmKAoKdiQQ?si=TxKrIzF_IlWehq8S) | Status Bar In Tkinter | Python Tkinter GUI Tutorial In Hindi #24
+___________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/kY22BriodaU?si=LJV-xKXo3UV5xRrr) | Using Classes And Objects To Create GUIs | Python Tkinter GUI Tutorial In Hindi #25
