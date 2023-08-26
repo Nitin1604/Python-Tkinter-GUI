@@ -47,4 +47,4 @@ YouTube Link : (https://youtu.be/luAhG37X8pE?si=cFYY2lKjDCgqv6uu) | Sliders In T
 ________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/BIeO2JTxOuw?si=kmK4Wd0UQKIMiH9Y) | Creating RadioButtons In Tkinter | Python Tkinter GUI Tutorial In Hindi #20
 ________________________________________________________________________________________________________________________________________________________
-YouTube Link : (https://youtu.be/eLSJKrlS95I?si=rd3KZ2cU5rjwezCs) | ListBox In Tkinter| Python Tkinter GUI Tutorial In Hindi #21
+YouTube Link : (https://youtu.be/eLSJKrlS95I?si=rd3KZ2cU5rjwezCs) | ListBox In Tkinter | Python Tkinter GUI Tutorial In Hindi #21
