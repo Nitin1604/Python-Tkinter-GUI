@@ -60,3 +60,9 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/EA3g9AZCIdU?si=5ZbMPt40h1CobIsF) | More Tkinter Tips, Tricks & Functions | Python Tkinter GUI Tutorial In Hindi #26
 ___________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/fbxsYcSccJE?si=2X5v0fmSmJeKzKDH) | Creating A Calculator Using Tkinter | Python Tkinter GUI Tutorial In Hindi #27
+___________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/QaLFoPq2sjA?si=Qz9Ix3_CSdQMqW8e) | Tkinter GUI Text Editor Announcement | Python Tkinter GUI Tutorial In Hindi #28
+___________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/UMTaOFNk73Y?si=HdWhEt1qzJkK1OSe) | Creating a GUI Notepad In Tkinter | Python Tkinter GUI Tutorial In Hindi #29
+___________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/K_IbYqZQHko?si=TCuqNiKroiXY1T9Q) | Tkinter Tutorials Conclusion + Resources | Python Tkinter GUI Tutorial In Hindi #30
