@@ -50,4 +50,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/eLSJKrlS95I?si=rd3KZ2cU5rjwezCs) | ListBox In Tkinter | Python Tkinter GUI Tutorial In Hindi #21
 ________________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/BULr4y47V7c?si=YYps7TS-ilz_Ceak) | ScrollBar In Tkinter GUI | Python Tkinter GUI Tutorial In Hindi #22
-________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/nF61b4wAmxE?si=PXh8BRF3RRN3_3Wf) | Tkinter GUI Exercise 2 Solution + Shoutouts | Python Tkinter GUI Tutorial In Hindi #23
